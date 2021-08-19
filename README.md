@@ -5,7 +5,7 @@
 - 👨‍🚀 I’m currently working on surviving to 2020 v.2 <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/work-spidy.gif" width="50px">
 - 📘 I’m currently learning FrontEnd with Vue,Express/Node and Mongo MEVN stack <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/learn-spidy.gif" width="35px">
 - 🧐 I’m improving my tech knowledge<img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/help-spidy.gif" width="50px">
-- 💬 Ask me about HTML, CSS, JS, Responsive Design, Figma <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/java-icon.png" width="40px">
+- 💬 Ask me about HTML, CSS, JS, Responsive Design, Figma <!-- <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/java-icon.png" width="40px"> -->
 - ⚡ Fun fact: I'm spider-man. <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/spidy.png" width="35px">
 
 ### Connect with me:
@@ -35,8 +35,8 @@
 ### Keep going and good luck buddy! <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/good-spidy.gif" width="120px">
 
 ---
-
-<img align="left" alt="SpidySaurai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SpidySamurai&show_icons=true&hide_border=true" />
+<!-- 
+<img align="left" alt="SpidySaurai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SpidySamurai&show_icons=true&hide_border=true" /> -->
 
 [Home Automation System]: https://github.com/SpidySamurai/Home_Automation_System
 <!--
