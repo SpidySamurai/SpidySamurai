@@ -1,6 +1,6 @@
 ## Hello everyone, I'm Javier - aka SpidySamurai <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/saludo-spidy.gif" width="60px">
 
-### <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/Developer.gif" width="45px"> I'm a student and a Karate practicer. <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/karate-p.gif" width="45px">
+### <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/Developer.gif" width="45px"> I'm a FrontEnd Developer Jr and a Karate practicer. <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/karate-p.gif" width="45px">
 
 - 👨‍🚀 I’m currently working on surviving to 2020 v.2 <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/work-spidy.gif" width="50px">
 - 📘 I’m currently learning FrontEnd with Vue,Express/Node and Mongo MEVN stack <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/learn-spidy.gif" width="35px">
