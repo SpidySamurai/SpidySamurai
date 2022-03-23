@@ -1,45 +1,35 @@
-## Hello everyone, I'm Javier - aka SpidySamurai <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/saludo-spidy.gif" width="60px">
+<h1 align="center">Hello everyone :earth_americas:, I'm Javier Chi Ortiz aka Spidy <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/saludo-spidy.gif" width="60px"> </h1> 
+<h3 align="center"> <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/Developer.gif" width="45px"> A mexican FrontEnd developer, faster learner and passionate black belt. <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/karate-p.gif" width="45px"></h3>
 
-### <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/Developer.gif" width="45px"> I'm a FrontEnd Developer Jr and a Karate practicer. <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/karate-p.gif" width="45px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spidysamurai&label=Profile%20views&color=0e75b6&style=flat" alt="spidysamurai" /> </p>
 
-- 👨‍🚀 I’m currently working on surviving to 2020 v.2 <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/work-spidy.gif" width="50px">
-- 📘 I’m currently learning FrontEnd with Vue,Express/Node and Mongo MEVN stack <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/learn-spidy.gif" width="35px">
-- 🧐 I’m improving my tech knowledge<img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/help-spidy.gif" width="50px">
-- 💬 Ask me about HTML, CSS, JS, Responsive Design, Figma <!-- <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/java-icon.png" width="40px"> -->
-- ⚡ Fun fact: I'm spider-man. <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/spidy.png" width="35px">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spidysamurai" alt="spidysamurai" /></a> </p>
 
-### Connect with me:
+- 🌱 I’m currently learning **MERN Stack** <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/work-spidy.gif" width="50px">
 
-[<img align="left" alt="SpidySamurai | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SpidySamurai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SpidySamurai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SpidySamurai | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 👨‍💻 All of my projects are available at [www.javierchiortiz.com](www.javierchiortiz.com) <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/learn-spidy.gif" width="35px">
 
-<br />
+- 💬 Ask me about **HTML, SASS, Figma, UI/UX** <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/help-spidy.gif" width="50px">
 
-### Languages and Tools:
+- 📫 How to reach me **javierchiortiz@gmail.com**
 
-<!--<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" /> -->
-<!-- <img align="left" alt="Java" width="26px" src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/java-icon.png" /> -->
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+- 📄 Know about my experiences [www.javierchiortiz.com](www.javierchiortiz.com)
 
-### Keep going and good luck buddy! <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/good-spidy.gif" width="120px">
+- ⚡ Fun fact **I'm Spider-Man**
 
----
-<!-- 
-<img align="left" alt="SpidySaurai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SpidySamurai&show_icons=true&hide_border=true" /> -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/javier fernando chi ortiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier fernando chi ortiz" height="30" width="40" /></a>
+<a href="https://discord.gg/SpidyNoMore#0456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SpidyNoMore#0456" height="30" width="40" /></a>
+</p>
 
-[Home Automation System]: https://github.com/SpidySamurai/Home_Automation_System
-<!--
-[website]: 
--->
-[twitter]: https://twitter.com/javi_spidy
-[youtube]: https://www.youtube.com/channel/UC6UZf4uBq4PlQYFObEwdMqA
-[instagram]: https://www.instagram.com/javi_spidy/
-[linkedin]: https://www.linkedin.com/in/javier-fernando-chi-ortiz-7252221b2/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spidysamurai&show_icons=true&locale=en&layout=compact" alt="spidysamurai" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spidysamurai&show_icons=true&locale=en" alt="spidysamurai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spidysamurai&" alt="spidysamurai" /></p>
+
+<h2 align="center">Keep going and good luck buddy! <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/good-spidy.gif" width="120px"></h2>
