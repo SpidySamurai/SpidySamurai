@@ -23,17 +23,15 @@ Here are some of the languages and tools I work with:
 
 ## Technologies
 
-| Frontend | Backend |
-| -------- | ------- |
-| HTML5    | Node.js |
-| CSS3     | Express |
-| SASS     | MySQL   |
-| Tailwind |         |
-| JavaScript |       |
-| React    |         |
-| Figma    |         |
-| Git      |         |
-| Github   |         |
+| Frontend    | Backend  | Tools   |
+| ----------- | -------- | ------- |
+| HTML5       | Node.js  | Git     |
+| CSS3        | Express  | Github  |
+| SASS        | MySQL    | Figma   |
+| Tailwind    | C#       |         |
+| JavaScript  | .NET     |         |
+| ReactJS     |          |         |
+| NextJS      |          |         |
 
 
 ## Projects and Portfolio
