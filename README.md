@@ -42,11 +42,7 @@ You can check out my projects and portfolio at my website: [www.javierchiortiz.c
 
 ![Profile Views](https://komarev.com/ghpvc/?username=spidysamurai&label=Profile%20views&color=0e75b6&style=flat)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=spidysamurai)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spidysamurai&layout=compact)](https://github.com/spidysamurai)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spidysamurai&show_icons=true&locale=en)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spidysamurai)
 
