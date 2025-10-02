@@ -1,53 +1,33 @@
-# Hello everyone! :earth_americas: I'm Javier Chi Ortiz, aka Spidy! <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/saludo-spidy.gif" width="60px">
+# Hello everyone! 🌎 I'm Javier Chi Ortiz, aka Spidy!  
+<img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/saludo-spidy.gif" width="60px">
 
-## About Me
+## 🚀 About Me
 
-I'm a Mexican FrontEnd developer, a fast learner, and a passionate black belt. 🥋 Currently, I'm focused on learning the MERN Stack. 
+I’m a **Frontend Developer** from Mexico 🇲🇽 with a strong focus on **React, Next.js, and Tailwind CSS**.  
+I enjoy building modern, scalable web applications with clean UI/UX, and I’m always learning new technologies.  
 
-- I’m currently working on **MERN Stack projects**. <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/work-spidy.gif" width="50px">
-- I’m currently learning **MERN Stack technologies**. 
-- Ask me about **HTML, SASS, Figma, UI/UX**. <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/help-spidy.gif" width="50px">
-- How to reach me: **javierchiortiz@gmail.com**
-- Fun fact: **I'm Spider-Man**
+🥋 As a 2nd Dan black belt, I bring the same discipline and perseverance from martial arts into my coding journey.  
 
-## Connect with Me
+- 🔭 Currently working on **Next.js + Tailwind web apps**  
+- 🌱 Learning **backend integrations (Node.js, Express, MySQL)**  
+- 💬 Ask me about **React, Next.js, Tailwind, UI/UX**  
+- 📬 Reach me at **javierchiortiz@gmail.com**  
+- 🕸️ Fun fact: **I believe anyone can be Spider-Man**  
 
-You can connect with me through the following platforms:
+---
 
-- LinkedIn: [Javier Fernando Chi Ortiz](https://linkedin.com/in/javier-fernando-chi-ortiz)
-- Discord: SpidyNoMore#0456
+## 🤝 Connect with Me  
 
-## Languages and Tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Chi%20Ortiz-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/javier-fernando-chi-ortiz)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.javierchiortiz.com-0a66c2?style=for-the-badge&logo=firefox)](https://www.javierchiortiz.com)  
+[![Discord](https://img.shields.io/badge/Discord-SpidyNoMore%230456-5865F2?style=for-the-badge&logo=discord)]()
 
-Here are some of the languages and tools I work with:
+---
 
-## Technologies
+## 🛠️ Tech Stack  
 
-| Frontend    | Backend  | Tools   |
-| ----------- | -------- | ------- |
-| HTML5       | Node.js  | Git     |
-| CSS3        | Express  | Github  |
-| SASS        | MySQL    | Figma   |
-| Tailwind    | C#       |         |
-| JavaScript  | .NET     |         |
-| ReactJS     |          |         |
-| NextJS      |          |         |
-
-
-## Projects and Portfolio
-
-You can check out my projects and portfolio at my website: [www.javierchiortiz.com](www.javierchiortiz.com)
-
-## GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=spidysamurai&label=Profile%20views&color=0e75b6&style=flat)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spidysamurai&layout=compact)](https://github.com/spidysamurai)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spidysamurai)
-
-## Contact Me
-
-Feel free to reach out to me at javierchiortiz@gmail.com if you have any questions or inquiries. You can also visit my website [www.javierchiortiz.com](www.javierchiortiz.com) to know more about my experiences.
-
-Keep going and good luck, buddy! <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/good-spidy.gif" width="120px">
+| Frontend | Backend | Tools |
+|----------|---------|-------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&)
