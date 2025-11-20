@@ -17,7 +17,7 @@ I enjoy building modern, scalable web applications with clean UI/UX, and I’m a
 ## 🤝 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Chi%20Ortiz-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/javier-fernando-chi-ortiz)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.javierchiortiz.dev-0a66c2?style=for-the-badge&logo=firefox)](https://www.javierchiortiz.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.javierchiortiz.dev-0a66c2?style=for-the-badge&logo=firefox)](https://www.javierchiortiz.dev)  
 [![Discord](https://img.shields.io/badge/Discord-SpidyNoMore%230456-5865F2?style=for-the-badge&logo=discord)]()
 
 ---
