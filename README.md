@@ -1,41 +1,76 @@
-# Hello everyone! 🌎 I'm Javier Chi Ortiz, aka Spidy! <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/saludo-spidy.gif" width="60px">
+<div align="center">
+  <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/saludo-spidy.gif" width="120px" alt="Spidy Wave" />
+  
+  # Hi there! I'm Javier Chi Ortiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  
+  ### 🕷️ *SpidySamurai* | Frontend Developer | Martial Artist 🥋
+  
+  <a href="https://linkedin.com/in/javier-fernando-chi-ortiz">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://javierchiortiz.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF5500?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:javierchiortiz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br />
+
+---
+
+</div>
+
+<br />
 
 ## 🚀 About Me
 
-I’m a **Frontend Developer** from Mexico 🇲🇽 with a strong focus on **React, Next.js, and Tailwind CSS**.  
-I enjoy building modern, scalable web applications with clean UI/UX, and I’m always learning new technologies.  
+I’m a **Frontend Developer** from Mexico 🇲🇽 with a passion for building **modern, scalable web applications**. I specialize in the React ecosystem and obsess over clean UI/UX.
 
-🥋 As a 2nd Dan black belt, I bring the same discipline and perseverance from martial arts into my coding journey.  
+🥋 **The Samurai Mindset**: As a **2nd Dan Black Belt**, I bring the discipline, focus, and perseverance of martial arts into every line of code I write.
 
-- 🔭 Currently working on **Next.js + Tailwind web apps**  <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/work-spidy.gif" width="50px">
-- 💬 Ask me about **React, Next.js, Tailwind, UI/UX**  <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/help-spidy.gif" width="50px">
-- 📬 Reach me at **javierchiortiz@gmail.com**  
-- 🕸️ Fun fact: **I am Spider-Man**  
+<br />
+
+### ⚡ Current Status
+
+|                     |                                                                                                                                                                                       |
+| :------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🔭 **Working on**   | Building my SaaS: **[Lab2Next](https://javierchiortiz.dev)** 🚀 <img align="right" src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/work-spidy.gif" width="35px"> |
+| 💬 **Ask me about** | **React, NestJS, & Architecture** <img align="right" src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/help-spidy.gif" width="35px">                               |
+| 🕸️ **Fun Fact**     | _I am literally Spider-Man_ (in my free time)                                                                                                                                         |
+
+<br />
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+|                                   Core                                   |                             Backend & SaaS                              |                                Tools                                 |
+| :----------------------------------------------------------------------: | :---------------------------------------------------------------------: | :------------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" /> | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,mysql,docker" /> | <img src="https://skillicons.dev/icons?i=git,github,figma,vercel" /> |
+
+<br/>
+
+_Also experienced with:_  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+</div>
+
+<br />
+
+## 📊 Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SpidySamurai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="SpidySamurai's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpidySamurai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+</div>
+
+<br />
 
 ---
 
-## 🤝 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Chi%20Ortiz-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/javier-fernando-chi-ortiz)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.javierchiortiz.dev-0a66c2?style=for-the-badge&logo=firefox)](https://www.javierchiortiz.dev)  
-[![Discord](https://img.shields.io/badge/Discord-SpidyNoMore%230456-5865F2?style=for-the-badge&logo=discord)]()
-
----
-
-## 🛠️ Tech Stack  
-
-| Frontend | Backend | Tools |
-|----------|---------|-------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
-| ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) | |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | | |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | | |
-
----
-
-
-✨ *Keep coding, keep improving!*  
-<img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/good-spidy.gif" width="120px">
+<div align="center">
+  <p><i>"With great power comes great responsibility... to deploy on Fridays."</i></p>
+  <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/good-spidy.gif" width="150px" alt="Spidy Bye" />
+</div>
