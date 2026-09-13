@@ -1,81 +1,56 @@
 <div align="center">
-  <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/saludo-spidy.gif" width="110px" alt="Spidy Wave" />
+  <img src="Assets/saludo-spidy.gif" width="90" alt="Animated Spider-Man graphic" />
+  <h1>Javier Chi Ortiz</h1>
+  <strong>Full-Stack Engineer building products from idea to production</strong>
 
-  # Javier Chi Ortiz
+  *SpidySamurai* 🕷️ · 2nd Dan Shotokan karateka 🥋 · Mérida, México 🇲🇽
 
-  **Full Stack Developer** · *SpidySamurai* 🕷️ · Shotokan Karateka 🥋
-
-  [LinkedIn](https://www.linkedin.com/in/javier-fernando-chi-ortiz) · [Portfolio](https://javierchiortiz.dev/en) · [javierchiortiz@gmail.com](mailto:javierchiortiz@gmail.com)
-
-  <a href="mailto:javierchiortiz@gmail.com"><img src="https://img.shields.io/badge/Open_to_remote_Frontend_/_Full--Stack_roles-US_time_zones-2ea44f?style=flat-square" alt="Open to work" /></a>
-
+  [Portfolio](https://javierchiortiz.dev/en) · [LinkedIn](https://www.linkedin.com/in/javier-fernando-chi-ortiz) · [Email](mailto:javierchiortiz@gmail.com)
 </div>
 
 ---
 
-## About
+## What I’m building <img src="Assets/work-spidy.gif" width="32" alt="Spider-Man shooting a web" />
 
-I'm a Full Stack Developer from Mérida, México 🇲🇽 with **5+ years of experience** building scalable, maintainable web applications and SaaS systems. I specialize in **React, Next.js, and TypeScript** on the frontend, and **Node.js and NestJS** on the backend, applying clean architecture principles.
 
-In 2026 I took the biggest leap of my career: I built and launched **my own SaaS, solo** — from Figma to production. That taught me more about real-world architecture, deployment, and listening to users than any tutorial ever could.
+For six years, I have designed and delivered production software across SaaS, fintech, e-commerce, and data platforms. Today, my work is centered on two products with different responsibilities and the same focus on useful, reliable systems.
 
-I've designed REST APIs, integrated third-party services (Stripe, Shopify), implemented secure authentication systems, and worked with relational databases (PostgreSQL, MySQL), cloud infrastructure (AWS, Docker), and CI/CD pipelines.
+### [Lab2Next](https://lab2next.com)
 
-**The Samurai Mindset** — as a 2nd Dan Black Belt in Shotokan Karate with 10+ years of training, I bring the discipline, focus, and perseverance of martial arts into every line of code I write.
+Lab2Next is a cloud platform for clinical laboratories in Mexico. I took it from product concept to a live SaaS business as a solo engineer, and I am growing it through the practical work of operating a product that laboratories use.
 
-<br />
+### [Brania.ai](https://brania.ai)
 
-## Featured — Lab2Next
+I am part of the team building Brania.ai, an autonomous operating system for businesses. It connects context, prepares actions, and acts under human authority.
 
-<!-- TIP: sube una captura del dashboard a Assets/ y descomenta esta línea -->
-<!-- <div align="center"><img src="Assets/lab2next-dashboard.png" width="700px" alt="Lab2Next Dashboard" /></div> -->
+## Selected proof: Lab2Next in production
 
-**[Lab2Next](https://lab2next.com)** is a cloud LIS (Laboratory Information System) for clinical laboratories in Mexico. I built it **end to end as a solo engineer**: product design, frontend, backend, payments, and deployment.
+Lab2Next brings orders, patients, results, payments, and multi-branch teams into one cloud-based workflow for clinical laboratories.
 
-- **Live in production since May 2026** (public beta Feb–Apr) — 50 registered users, 100+ lab exams processed
-- **WhatsApp results portal** with digitally signed QR verification: patients get results on any phone, no app required
-- **155-test catalog** built with AI-agent workflows, validated by practicing lab chemists
-- **Stack:** Next.js · TypeScript · Tailwind · REST API · multi-branch, role-based architecture · CI/CD
+- Built a multi-branch, role-based architecture around clinical workflows.
+- Delivered patient results through WhatsApp with signed QR verification, without requiring an app.
+- Shipped a catalog of 155+ laboratory exams validated by practicing laboratory chemists.
+- Designed and operated the product end to end: frontend, backend, payments, deployment, and continuous delivery.
+- Reached 50 registered users and processed 100+ exams through the live platform.
 
-<br />
 
-## Now
+## How I work
 
-|                  |                                                              |
-| :--------------- | :----------------------------------------------------------- |
-| **Working on**   | Scaling [Lab2Next](https://lab2next.com) <img align="right" src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/work-spidy.gif" width="32px"> |
-| **Ask me about** | React, Next.js, NestJS, PostgreSQL & Clean Architecture <img align="right" src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/help-spidy.gif" width="32px"> |
-| **Learning**     | Cloud-native patterns, scalable SaaS infrastructure          |
-| **Fun fact**     | *I am literally Spider-Man* (in my free time)                 |
+I make trade-offs explicit and prefer systems that are easy to understand, operate, and change. I stay close to users because their feedback guides the work after launch as much as the original requirements do.
 
-<br />
 
-## Stack
 
-<div align="center">
+## SpidySamurai
 
-|                                        Frontend                                        |                                Backend & Data                                |                                 DevOps & Cloud                                  |                                Tools                                 |
-| :------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :------------------------------------------------------------------: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,sass,html,css" /> | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,python" /> | <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vite,webpack" /> | <img src="https://skillicons.dev/icons?i=git,github,figma,vercel" /> |
+I have practiced Shotokan karate for more than 10 years and hold a 2nd Dan black belt. Karate taught me to trust consistent practice, especially when the work gets difficult. SpidySamurai combines that discipline with the curiosity I have always liked about Spider-Man.
 
-<sub>**Also experienced with:** Django · Scala · Apache Spark · Kubernetes · Stripe · Shopify · C# / .NET · SQL Server · Superset · Material UI · Bootstrap · Jira · Bitbucket</sub>
+## Have an idea in mind? <img src="Assets/learn-spidy.gif" width="32" alt="Spider-Man standing with hands on hips" />
 
-</div>
+If you have an idea in mind, we can work together to turn it into a real product. [Tell me about it](mailto:javierchiortiz@gmail.com).
 
-<br />
-
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SpidySamurai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="SpidySamurai's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpidySamurai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
-</div>
-
-<br />
 
 ---
 
 <div align="center">
-  <p><i>"With great power comes great responsibility... to deploy on Fridays."</i></p>
-  <img src="https://github.com/SpidySamurai/SpidySamurai/blob/master/Assets/good-spidy.gif" width="140px" alt="Spidy Bye" />
+  <img src="Assets/good-spidy.gif" width="140" alt="Spider-Man crouching in an action pose" />
 </div>
