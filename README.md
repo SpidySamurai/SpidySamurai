@@ -31,7 +31,7 @@ Lab2Next brings orders, patients, results, payments, and multi-branch teams into
 - Delivered patient results through WhatsApp with signed QR verification, without requiring an app.
 - Shipped a catalog of 155+ laboratory exams validated by practicing laboratory chemists.
 - Designed and operated the product end to end: frontend, backend, payments, deployment, and continuous delivery.
-- Reached 50 registered users and processed 100+ exams through the live platform.
+- Processed 2,800+ exams with validated results through the live platform, as of November 2026.
 
 
 ## How I work
